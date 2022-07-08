@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 👨🏻‍💻 Link para o visualizar o site
 
-<a href="">Site</a>
+<a href="https://expore1-0.vercel.app/">Site</a>
